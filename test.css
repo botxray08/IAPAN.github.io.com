@@ -1,6 +1,6 @@
 @font-face {
   font-family: "horor";
-  src: url("/Horor.otf");
+  src: url("Horor.otf");
 }
 
 /* Base Styles */
@@ -14,7 +14,7 @@
     font-family: 'Arial', sans-serif;
     color: red;
     overflow-x: hidden;
-    background-image: url('/image/horor.png');
+    background-image: url('image/horor.png');
   }
   
   .container {
